@@ -7,6 +7,8 @@ We are excited about your interest in joining the engineering team at Sunshine! 
 - We want to understand the sort of problems that you like solving. Try to select a project which showcases your particular areas of expertise and interest.
 - We understand many candidates do not have recent non-proprietary code and not everyone has the ability or interest to work on side projects. That's completely OK! So long as you provide us with all the necessary context, we will evaluate your code with the timing and scope of the project in mind.
 As we read through these samples, we appreciate clean and well-documented code. It will work to your advantage to provide detailed documentation.  At the very least, please provide clear instructions on how to run the code, including any software, libraries, or other dependencies that need to be preinstalled.  Also, if it's not entirely obvious what your code does, please include an explanation or video.
-- Please submit your code sample via email within three business days to your recruiter. If it makes sense to do so, you can share a github repo with @SunshineSample.
+- Please submit your code sample via email within three business days to your recruiter. If it makes sense to do so, you can also fork the following repo:
+  - https://github.com/lumilabs/SunshineSample
+  - Create a remote connection back, and submit your code via a Pull Request, which will be reviewed by a team member
 
 Don’t hesitate to reach out to us if you have any questions - and good luck! We look forward to seeing your work. :)
